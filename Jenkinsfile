@@ -1,10 +1,5 @@
 pipeline {
-  agent {
-    node {
-      label 'Dev-Env'
-    }
-
-  }
+  agent any
   stages {
     stage('Unit-Test') {
       steps {
