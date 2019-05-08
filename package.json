@@ -1,0 +1,17 @@
+{
+  "name": "nodejspgms",
+  "version": "1.0.0",
+  "description": "Sample NodeJS Programs",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Premkumar Natarajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
